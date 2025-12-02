@@ -1,2 +1,3 @@
 # servidor-mine
-Teste
+servidor para os noivinhos
+Start server /workspaces/servidor/minecraft/run_crafty.shS
