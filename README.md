@@ -1,7 +1,7 @@
 # servidor-mine
 
 
-#verificar playit
+#VERIFICAR PLAYIT
 ./playit-linux-amd64
 
 
