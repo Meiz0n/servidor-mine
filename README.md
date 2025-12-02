@@ -1,3 +1,3 @@
 # servidor-mine
 servidor para os noivinhos
-Start server /workspaces/servidor/servidor-mine/run_crafty.sh
+Start server /workspaces/servidor-mine/minecraft/run_crafty.sh
