@@ -1,3 +1,9 @@
 # servidor-mine
-servidor para os noivinhos
-Start server /workspaces/servidor-mine/minecraft/run_crafty.sh
+
+
+#verificar playit
+./playit-linux-amd64
+
+
+#INICIAR SERVIDOR 
+/workspaces/servidor-mine/minecraft/run_crafty.sh
